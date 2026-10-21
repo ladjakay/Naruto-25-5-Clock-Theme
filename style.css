@@ -1,0 +1,21 @@
+/* style.css - Naruto Modern Chakra Theme */
+:root {
+  --chakra-orange: #ff6b00;
+  --sharingan-red: #ff1e27;
+  --bg-dark: #0a0b10;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+
+#time-left {
+  font-family: 'Orbitron', monospace;
+  font-size: 3.5rem;
+}
+
+.chakra-glow {
+  box-shadow: 0 0 25px rgba(255, 107, 0, 0.4);
+}
